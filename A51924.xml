@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Maria misera miseranda, or, A brief relation of the life and death of an unfortunate young maid in the county of Desmond in Ireland together with the most horrid murder of her lover, an English-man, committed by the father of the said virgin.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51924</idno>
+            <idno type="STC">Wing M597A</idno>
+            <idno type="STC">ESTC R13332</idno>
+            <idno type="EEBO-CITATION">13586485</idno>
+            <idno type="OCLC">ocm 13586485</idno>
+            <idno type="VID">100553</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51924)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100553)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 466:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Maria misera miseranda, or, A brief relation of the life and death of an unfortunate young maid in the county of Desmond in Ireland together with the most horrid murder of her lover, an English-man, committed by the father of the said virgin.</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. T. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100553:1" rendition="simple:additions"/>
+            <p>
+               <hi>Maria Miſera Miſeranda:</hi> Or, A brief RELATION OF THE Life and Death OF An Unfortunate Young Maid IN THE COUNTY of <hi>DESMOND</hi> IN IRELAND.</p>
+            <p>Together with the Moſt Horrid Murder of her LOVER, an Engliſh-man, committed by the FATHER of the ſaid VIRGIN.</p>
+            <p>
+               <hi>Very Strange and True.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>R. T.</hi> at the <hi>Crown</hi> in <hi>Little-Britain,</hi> 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:100553:2"/>
+            <pb n="1" facs="tcp:100553:2"/>
+            <head>
+               <hi>Maria Miſera Miſeranda: OR</hi> A brief Relation of the Life and Death of an <g ref="char:V">Ʋ</g>nfortunate young Maid in the County of <hi>Deſmond</hi> in <hi>Ireland.</hi>
+            </head>
+            <p>IN the moſt Weſtern parts of the Kingdom of <hi>Ireland,</hi> where the County of <hi>Deſmond</hi> oppoſes its tripple head to the ſurging Ocean, there is ſcituate upon the banks of a ſlender Torrent neer <hi>Dingle Bay,</hi> a very mag<g ref="char:EOLhyphen"/>nificent Caſtle, known by the name of <hi>Kerbre;</hi> and hard by the ſame another fair Mannor Houſe, which for its convenient opportunity of Sea, and various recreations by Land, dilated on the one ſide into ſpacious Fields, and pleaſant riſing Hil<g ref="char:EOLhyphen"/>locks, and bounded on the other with gay Medows, freſh Springs, and ſolitary Groves; has for theſe many years been honored with the Habitation of an Antient, and right Noble Family; whoſe Name, the ſadneſs of the ſubſequent Story gave me ſufficient cauſe to conceal. The Heir now living was in the eighteenth year of his Age contracted to a young Maid in the ſame County, who did ſo well anſwer her Bridegroom in Quality, and Comlineſs, that they were not unjuſtly ac<g ref="char:EOLhyphen"/>counted, The moſt happy and Lovely Pair in all thoſe parts. But theſe were only the Preludiums of that happineſs, which was conſummated in their Nuptial bed; whither, although in modeſty I dare not follow them; yet doe's the event ſufficient<g ref="char:EOLhyphen"/>ly declare that there alſo was nothing wanting in either party, whereby to advance and Crown their long expected Bliſs.
+<pb n="2" facs="tcp:100553:3"/>For the full ſpace of five months had ſcarce paſt beyond the Wedding-day, when ſweet <hi>Helena</hi> by the unuſual viciſſitudes of Bluſhes, and Paleneſs in her Cheeks, and ſudden Qualms in her Stomach gave evident tokens that of a Virgin ſhe was made a Mother.</p>
+            <p>Joyful news this, we need not doubt, both to her Friends, and eſpecially her dear Husband, who from ſo fair a Wife could not but expect a more than ordinary Child: and ſo in<g ref="char:EOLhyphen"/>deed it was; for when the long expected hour was come; Behold, a Daughter came laughing into the world; A Babe of ſuch admirable Form and Features, as might eaſily preſage her future advancement to the higheſt ſeat in Loves Empire. The Reſemblance and Idea of both Parents were plainly ſeen in this little Model; but ſo ſweetly interwoven one with ano<g ref="char:EOLhyphen"/>ther, that you would have thought Nature, like ſome skilful Painter, had pourtrayed the chiefeſt excellencies of them both into one Copy of the Daughter: and leſt, notwithſtand<g ref="char:EOLhyphen"/>ing, ſhe ſhould ſeem too ſparing in her bleſſings, added an ex<g ref="char:EOLhyphen"/>traordinary, and unheard of Ornament to the upper part of her Breaſt; in the middle of which was the picture of a freſh Primroſe ſo lively drawn, that at a very ſmall diſtance it ſeemed natural. 'Twere in vain here in dull words to attempt an eſſay of that joy, which this Creature brought into the world with it; and therefore I leave it rather to the Rhetorick of a pure-thinking mind, abundantly more capacious of ſo large a ſub<g ref="char:EOLhyphen"/>ject.</p>
+            <p>The eighth day of her age was celebrated with a huge con<g ref="char:EOLhyphen"/>fluence of Kinsfolks, and Acquaintance for the giving of her a Name; which, after the <hi>Roman</hi> Ceremony, was, in a Church dedicated to St. <hi>Mary,</hi> very ſolemnly performed: and be<g ref="char:EOLhyphen"/>cauſe that Saint is reputed amongſt the Catholicks, as the glory of all her Sex; what other name ſo fit to adorn this Babe, which promiſed ſo fair an advance to her nature. Hereafter therefore let her be call'd <hi>Mary,</hi> Lovely, and Happy <hi>Mary</hi> in the firſt of her days, although much more miſerable in the end.</p>
+            <p>As for her Education, it was every way worthy her own perſon, and defective in nothing whereby to perfect the Bleſ<g ref="char:EOLhyphen"/>ſings
+<pb n="3" facs="tcp:100553:3"/>of Nature by the accompliſhment of Art. For the years of her Infancy being expired under her Mothers care, ſhe was then removed to the Court of <hi>Rome,</hi> where ſhe continued un<g ref="char:EOLhyphen"/>der the Inſpection of a very Noble Perſonage for eight years together. In which time 'tis a wonder how admirable ſhe grew in all thoſe Endowments which adorn the Female Sex: For beſide her great knowledg in three or four ſeveral Tongues, Hiſtory, and Philoſophy, ſhe played excellently upon many Mu<g ref="char:EOLhyphen"/>ſical Inſtruments; and yet of all theſe none ſo ſweet as the undu<g ref="char:EOLhyphen"/>lations of her Seraphick Voice, which to hear and admire were things unſeperably united: She Danced with an incomparable Majeſty, and huge-taking geſture; and diſcourſed in as elo<g ref="char:EOLhyphen"/>quent a Stile as moſt <hi>Romances.</hi> In ſhort, there was nothing de<g ref="char:EOLhyphen"/>ſirable, which was not in an eminent degree in this Virgin: and yet above all was the excellency of her Perſon, which by the fourteenth year of her Age was arrived at a perfection be<g ref="char:EOLhyphen"/>yound the ken of a vulgar imagination.</p>
+            <p>There you might behold the ſweet Strokes, and Harmoni<g ref="char:EOLhyphen"/>ous Compoſure of moſt Lovely Features, gilded over with an Incomperable Beauty without, and garniſhed with a meek Spirit; Virgin Modeſty, moſt virteous, and capacious Soul within: There you might feaſt the Eye without wearineſs, the Ear without dulneſs, and the Touch, I am ſure, without repenting: None that ever ſaw her, could have deſired a bet<g ref="char:EOLhyphen"/>ter; and whoſoever could heartily content himſelf with a worſe, knew not the extent of his own happineſs.</p>
+            <p>But the ſweet Lady was totally ignorant of all theſe; and ſhe, who at her firſt entrance into <hi>Rome</hi> knew none more than her ſelf, nor was beknown of any; doe's now know none leſs, although beknown of all.</p>
+            <p>Now amongſt thoſe many which were Suitors to her in their thoughts, the firſt which made his open addreſs was one <hi>Don Antonio,</hi> Heir to a Senator, of great Wealth, and Quality; Who approaching neer to do his Devoir to her in a Salute, was caſt into ſuch an extaſie by the ſplendour of her Counte<g ref="char:EOLhyphen"/>nance, forced him rudely to retreat without the Libation of her Sweet Lips. This did not a little diſcompoſe the Lady, and made her ask him very ſincerely, whether any thing about
+<pb n="4" facs="tcp:100553:4"/>her had done him harm? But aſſoon as he had with tears in his eyes related the cauſe; and bowing at her feet diſcloſed his Paſſion for her: She then ſmiling, ſaid; <q>
+                  <hi>I hope, Sir, you are more tender of your Honor than to ſtoop ſo low as me beneath your own deſerts: and I aſſure you my Ambition is not large enough to entertain ſuch large proffers. My Equal ſhall be my Bridegroom when ever I enter that holy State; and therefore I intreat you de<g ref="char:EOLhyphen"/>ſist from this enterprize, which may juſtly defame you, and can never pleaſe me.</hi>
+               </q>
+            </p>
+            <p>The Young Man had heard enough to ſtop the Current of his Rhetorick, and thefore gazing a while upon her with a gaſtly countenance, he departed the Room, replying never a word; only 'twas thought by the working of his breaſt, he would have ſpoken, but could not. Nor had the Horned Racer of the Night ſurveyed the Heavens once round before another ventures Shipwrack upon the very ſame Seas: For a brisk young Marchant, who had been ſome years abſent from the City, chancing to eſpye her at a Proceſſion, fell into a deſpe<g ref="char:EOLhyphen"/>rate and impatient fit of Love for her, which made him, after the Ceremony ended, betake himſelf fortwith to her Lodg<g ref="char:EOLhyphen"/>ings, where he accoſted the ſurprized Lady in this manner.</p>
+            <p>
+               <hi>Eaireſt of Creatures! I beſeech you pardon my boldneſs in this ſudden aſſault of your Virgin Modeſty; and if I be guilty of any blame, lay it not on me, but the God of Love, whoſe Vaſſel and Meſſenger I now am. I am come to challenge a Heart, which I be<g ref="char:EOLhyphen"/>lieve you have innocently, and ignorantly robbed me of; and becauſe it is impoſſible for you to reſtore it again, excuſe me if I lay claim to yours in exchange of it: Madam, I know you will think your ſelf a loſer by the bargain, and I am ready on my knees to confeſs it; But yet I pray take pity on me, and your own Honor, which now lies at ſtake: For by thoſe Immortal Powers, that rule this raging Flame within by Breaſt, If you deny my Suit, then in that very moment ſhall this very Sword free me from your Tyranny, and my Body which falls in your preſence, ſhall ſtain your ſpotleſs name, at leaſt with a ſuſpition of Murther and Cruelty.</hi>
+            </p>
+            <p>Whether he intended to proceed any farther, and make a Relation of his Pedigree, and Fortune, I cannot tell: But here perceiving the tears to ſhower from the Lady's eyes, he made
+<pb n="5" facs="tcp:100553:4"/>a pauſe, and ſtood ſome while in expectation of an Anſwer; which, as ſoon as ſhe had recovered her ſelf from the oppreſ<g ref="char:EOLhyphen"/>ſion of amazement, ſhe returned in theſe, or the like terms.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <hi>I</hi> Much wonder that ſo unworthy a Creature as I ſhould be the Object of ſo ardent a Paſſion; as you pretend: But if ſo I be, yet let me entreat you to free me from the Imputation of being Woed, and won at the firſt Attempt. Beſides, your Love may hap to die in as ſhort a time as it firſt ſprang up; which if it does, will render you miſerable in your Petition, and me as unfortu<g ref="char:EOLhyphen"/>nate in my Grant. I pray therefore be not over-haſty in things of ſo great concern, and let time prove the conſtancy of your Love.</p>
+               </body>
+            </floatingText>
+            <p>This, although it came ſhort of a real aſſent, yet becauſe it was no flat denial, was as much as could be expected from a Virgin Modeſty at the firſt Addreſs; and therefore the Young Gallant, after a ſmall tarry, departed in tolerable ſatisfaction, yet promiſing her another Viſit the next day. His abſence was no ſooner enjoyed, but the lovely <hi>Mary</hi> begins to imploy her Imagination in ſome Project whereby to acquit her ſelf from the unreaſonable requeſts of this fond Lover; for as yet the Charms of <hi>Cupid</hi> had not reconciled her thoughts to a Wed<g ref="char:EOLhyphen"/>ded Life: and to deny, or ſuſpend his hopes a ſecond time, ſhe foreſaw was a matter of deſperate conſequence: She therefore calling both her Waiting Gentlewomen, made them conſcious of her unhappy condition; and ſeeing there was no other remedy, reſolved, if opportunity ſerved, to acquit her ſelf of <hi>Rome.</hi> It was in the dusk of the Evening ſhe went down to the River, where finding an Engliſh Ship, which was to paſs by the Coaſts of <hi>Ireland,</hi> ſhe imbarqued in the ſame, bidding adieu to the Walls of <hi>Rome,</hi> and her Love-ſick Gallant. We muſt now follow her to the <hi>Iriſh</hi> ſhore, where we ſhall find her Parents in a ſtrange tranſportation, and fit of joy, with the ſight of their fair Daughter, and yet jealous of ſomewhat by reaſon of her unexpected return; the cauſe of which when ſhe had related, did at once give them a ſufficient Teſtimonial of her Virtue, and the high eſteem ſhe had me<g ref="char:EOLhyphen"/>rited
+<pb n="6" facs="tcp:100553:5"/>at <hi>Rome:</hi> And therefore now they ſit down in a full frui<g ref="char:EOLhyphen"/>tion of their happineſs, admiring thoſe rare Accompliſhments which adorned the perſon of their only Child. But ſhe that had ſo cunningly eſcaped the Suits of the <hi>Roman</hi> Citizens, had only exchanged them for thoſe of her own Country: and therefore no ſooner was her Name poſted into the Neighbour<g ref="char:EOLhyphen"/>ing parts, but a young <hi>Iriſh</hi> Lord diſpatches a Letter to her Father, in this wiſe:</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>THe loud ſounding Trumpet of your Daughters Fame, has blown in my Breaſt a Flame ſo far beyond expreſſion, that I ſhall not here attempt it. My humble Petition is, that you would grant me the Honour of Acceſs to her Perſon, and Deign to call me Son; which Title, as I preſume, is no diſhonour to your ſelf, ſo can I promiſe it to be the Conſummation of my greateſt happi<g ref="char:EOLhyphen"/>neſs.</p>
+                  <closer>
+                     <signed>Yours, <hi>Ophon.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>This news was too joyful to admit any delay of Anſwer; and therefore being delivered to the Father of this Lady; was preſently ſeconded with this Reply.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>
+                     <hi>I</hi> Greatly fear that the Fame of my Daughter ſurpaſſes what ſhe indeed is, and ſo deludes your Lordſhips Paſſion with a vain and ill-grounded expectation: But if your Honour will ſo far condeſcend as to make tryal by a Viſit, I will aſcertain you the ut<g ref="char:EOLhyphen"/>moſt of my Ability in a Welcome Entertainment; and ſhall for ever think my ſelf a great Debtor to Heaven, if it has decreed to make her ſo happy in a Husband, and me in a Son: <g ref="char:V">Ʋ</g>ntil which time I ſubſcribe my ſelf</p>
+                  <closer>
+                     <signed>Your moſt Humble Servant.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Theſe Lines being preſented to the Lord, incited him with all convenient ſpeed to viſit his Miſtreſs, whom now with a Preſagious Joy he gueſs'd to be his own; and therefore he, with a very Noble Attendance, did upon the thirteenth day
+<pb n="7" facs="tcp:100553:5"/>alter this Meſſage, preſent himſelf before the Gates of his Miſtreſſes Father; by whom being received with much Cere<g ref="char:EOLhyphen"/>mony and Joy, he was forthwith conducted to the preſence of the Lovely <hi>Mary:</hi> He found her reading, with tears in her eyes, Sir <hi>Philip Sidney</hi>'s Romance, concerning the Unfortunate Lo<g ref="char:EOLhyphen"/>vers <hi>Argalus</hi> and <hi>Parthenia:</hi> But being ſurprized by the en<g ref="char:EOLhyphen"/>trance of an unknown Perſon, ſhe ſhut up her Book; and compoſing her countenance as well as ſhe could, began to ap<g ref="char:EOLhyphen"/>proach the Lord, as it were in expectation of ſomewhat he had to ſay to her: The Lord had, without doubt, digeſted his thoughts into good Rhetorick before-hand; but being now as it were in a <hi>Diliquium,</hi> by reaſon not only of the unexpected grief he found her in, but alſo by the ſuperexcellency of her Perſon, ſo far ſurpaſſing the Voice of Fame. He ſtood for a while Statue-like, void of all ſpeech and motion, till at laſt the Rapture of his Soul forcing way through the indiſpoſed Organs of his body, he thus beſpake his Fair Miſtreſs.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Moſt Incomparable Lady!</salute>
+                  </opener>
+                  <p>IF I have interrupted your Virgin Meditations with a rude and unexpected Aſſault, pray let the urgency of my Errand Apo<g ref="char:EOLhyphen"/>logize for me: Be it known to you then, Fair Miſtreſs, I am by Birth a Lord, and Heir to no mean Fortune: I have lived theſe eighteen years, from my Nativity, without either knowledge or de<g ref="char:EOLhyphen"/>ſire of your Sex, until within theſe few days of your arrival into <hi>Ireland,</hi> wherein the exuberance of your Fame, together with the ſecret whiſper of Love<hi>'s</hi> Deity, has enthralled me to you. My firſt Apply was to your Honoured Father, whom I find well contented to call me Son: Be but you as willing to call me Husband, and my Happineſs is as great as Ambition would have it.</p>
+               </body>
+            </floatingText>
+            <p>To all this the Beautiful Lady made little anſwer, only urge<g ref="char:EOLhyphen"/>ing the meanneſs of her Eſtate and Birth to his Splendid For<g ref="char:EOLhyphen"/>tune; and moreover, her diſlike to a married life. But the Lord was reſolv'd not to deſiſt by theſe excuſes, and there<g ref="char:EOLhyphen"/>fore reinforces his Addreſſes with new Arguments, as alſo did her Father, who pleaded againſt her from the Topick of Duty.</p>
+            <p>Now whilſt theſe Love Affairs were ſuſpended betwixt con<g ref="char:EOLhyphen"/>ſent
+<pb n="8" facs="tcp:100553:6"/>and denial, it hapned that an Engliſh Ship, being ſplit upon the Sands in the Weſtern Ocean, near the aforeſaid County of <hi>Deſmond,</hi> there was one, and only one perſon eſcaped with life, whom indeed for the comelineſs of his Perſon, and (as af<g ref="char:EOLhyphen"/>terward appeared) the ſupereminency of his Parts, one might well have thought to be Brother to Fair <hi>Mary.</hi>
+            </p>
+            <p>This Man eſcaping naked to ſhore, and deſtitute of all Friends and Acquaintance, was forced by the Laws of Ne<g ref="char:EOLhyphen"/>ceſſity (which others ſay have none) to implore the charity of ſeveral perſons, as he paſſed the Country, for his ſubſiſtance. Amongſt others, he hapned to call at the Houſe of <hi>Maries</hi> Fa<g ref="char:EOLhyphen"/>ther; where being noted by her, as one whoſe Perſon was as well admirable to the eye, as his diſcourſe to the ear, was through her Mediation taken into the ſervice of her Father.</p>
+            <p>And now that Heart, which was before Canon-proof againſt <hi>Cupid</hi>'s Aſſailants, begins at laſt to faint in its Engagement: For the Beauteous Lady had ſcarce conſumed the ſpace of three moneths in eying and obſerving her ſhipwrackt Servant, but ſhe began to diſcloſe her Paſſion to him by ſeveral To<g ref="char:EOLhyphen"/>kens, which any Suiter would have preſently underſtood: But alas.! the adverſeneſs of his Fortune, together with the humble conceit of his own worthineſs, had render'd him as dull in the Intrigues of Love, as <hi>Mary</hi> was before; and there<g ref="char:EOLhyphen"/>fore ſeeing her Father by this time began to grow impatient of Denial in the Lords Suit, ſhe reſolved to lay aſide her Maiden Modeſty, and turn plain Suiter to the Beloved Stranger. For the doing of which, ſhe took this occaſion: Walking in the dusk of the Evening, where he was to paſs by, ſhe iet fall her Glove in the Path, as ſhe ſaw him come, and ſo with her Handkerchief at her eyes paſs'd away in a ſolitary poſture.</p>
+            <p>The young man coming to her to preſent her what ſhe had loſt, and ſeeing her in ſo melancholly a temper, told her, <hi>He was ſorry to ſee her ſo, and wiſhed it were in his power to ſerve her.</hi> At which words the Lady, no longer able to repreſs her Paſſion, did with an extraordinary fervency looſe her Tongue into this Rhetorick:</p>
+            <p>Deareſt Sir; <hi>And are you willing to ſerve me, then know 'tis you alone are able to do it; for of all the men I e're beheld, you only
+<pb n="9" facs="tcp:100553:6"/>are he that I can and must Love, and 'tis you alone that muſt either make me a happy Bride, or leave me a miſerable Maid.</hi>
+            </p>
+            <p>So was about to proceed, but that the Man, now almoſt mad with Joy, ſtopp'd the current of her words by the inter<g ref="char:EOLhyphen"/>poſition of his lips. Long was it before their ſpeech returned, but when it did, 'twas not long before they were made each others by a ſacred Vow.</p>
+            <p>And now the next concerns were how to get beyond the ho<g ref="char:EOLhyphen"/>ly rite of Marriage, and after that, where to make their abode: at laſt it is reſolved, that Loving <hi>Mary</hi> taking her Jewels and other moſt coſtly things along with her, ſhould that night quit her Fathers houſe, and ſo accompany her deareſt Beloved into <hi>Northumberland</hi> in <hi>England,</hi> his Native Country. Where, al<g ref="char:EOLhyphen"/>though his Parents were but mean, yet he hoped, by the help of other good Friends, to get a very comfortable ſubſiſtence.</p>
+            <p>This ſhe did accordingly, leaping out at a very high Window into his arms: But O the unfortunate ſucceſs of this Heroick Act! For the noiſe, though little, being over-heard by her Fa<g ref="char:EOLhyphen"/>ther, excited him forthwith to look out at his Caſement, where, by the light of the Moon, he might eaſily deſcry the matter; And therefore without delay he perſues them with a naked Sword in his hand, to the afore-named neighbouring Bay, where they had intended to take a Boat, and waft them<g ref="char:EOLhyphen"/>ſelves over into the County of <hi>Kerry.</hi> The loving Pair had ſcarce taken Boat, when they ſaw him approach in a direful manner, threatning no leſs than preſent death to his Servant; and although they made what ſpeed their fear and amazement would let them, yet he was ſoon by their ſide with another Boat, which made his Daughter leave the Oar, and turn her Prayer againſt the edge of his Sword: But his Paſſion was deaf to all entreaties, and therefore, as ſoon as ever he was within reach, ſheathed his Sword in the bowels of the unarmed young Lover.</p>
+            <p>
+               <hi>Mary</hi> ſtood ready in expectation of the ſame fall, and wil<g ref="char:EOLhyphen"/>ling to accompany her Love into another Country (as before ſhe had promiſed) but aſſoon as ſhe underſtood that her Fa<g ref="char:EOLhyphen"/>ther meant her the injury of Life, and a Wife for the Lord (who was now at home in his Bed) ſhe claſp'd about the
+<pb n="10" facs="tcp:100553:7"/>waſte of her now dead Lover, and crying out aloud, <hi>O ſtay for me,</hi> threw both him and her ſelf into the arms of the mercileſs Waves.</p>
+            <p>You will expect here I ſhould make an end concerning our two Lovers, but the Waters are not willing it ſhould be ſo, and therefore next day they brought them aſhore, imbracing each other, as is aforeſaid. Which when the Father and the Lord ſaw, Then all their Paſſions were melted into that one of Grief, and as the laſt token of Pity, they gave them a very noble Burial in one Tomb, that Death might not part aſunder, what Life had joyned together.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
